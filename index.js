@@ -37,7 +37,8 @@ module.exports = {
         'docs',
         'chore',
         'refactor',
-        'test'
+        'test',
+        'conflict'
       ]
     ]
   }
